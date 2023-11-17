@@ -31,6 +31,6 @@ The data suggests potential opportunities for cross-promoting weaker categories 
 
 <img width="426" alt="image" src="https://github.com/tthh97/regionalstoreanalysis/assets/143679857/a33394ef-4d74-476d-a126-120b4d03b3c2">
 
-The statisical image above is the total count of orders that's more than 4 in each region. It is to find loyal customers that consistently interact with the stores. 
+The statisical image above is the total count of individual's orders that's more than 4 yearly in each region. It is to find loyal customers that consistently interact with the stores. 
 - US and GB shows that customers growth rate are at consitent growth rate
 - DK and BE growth rate tripled from year 2019 to 2021 whereas the rest of the region seems to be at fluctuations and slow pace. 
