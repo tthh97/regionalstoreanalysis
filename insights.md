@@ -33,4 +33,4 @@ The data suggests potential opportunities for cross-promoting weaker categories 
 
 The statisical image above is the total count of orders that's more than 4 in each region. It is to find loyal customers that consistently interact with the stores. 
 - US and GB shows that customers growth rate are consitent growth rate
-- Most regions exhibit year-over-year growth, suggesting expanding market presence, except for Spain and Portugal, which show fluctuations, and Canada and France, which have consistently low order volumes. The overall global trend points to a growing customer base, though the rate of growth appears to be slowing in the most recent year.
+- DK and BE growth rate tripled from year 2019 to 2021 whereas the rest of the region seems to be at fluctuations and slow pace. 
