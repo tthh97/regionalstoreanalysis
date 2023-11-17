@@ -11,4 +11,10 @@ Overview of the dashboard
 ![image](https://github.com/tthh97/regionalstoreanalysis/assets/143679857/a1e444e7-bc28-4aa7-a121-02dba873251a)
 
 
+Tools and Techniques:
+
+Excel Functions: PivotTables,SUMIFS, INDEX-MATCH,Filter and other various statistical functions.
+Data Visualization: Creating dynamic charts and graphs for trend visualization and dashboard.
+
+
 
