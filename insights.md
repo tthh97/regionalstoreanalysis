@@ -13,6 +13,10 @@ Sales Analysis :
 Customer Behavior analysis:
 - Segmentation of top 10 customers based on purchase behavior and demographics.
 - Identification of high-value customers for targeted marketing.
-<img width="500" alt="image" src="https://github.com/tthh97/regionalstoreanalysis/assets/143679857/ab7f1a28-47ca-4dbd-afe1-83d69404476e">
+<img width="500" alt="image" src="https://github.com/tthh97/regionalstoreanalysis/assets/143679857/331a3403-4d1e-43af-a639-0f2c23666d2b">
+
 
 -From the chart observation above it can be denote that top spenders spend mostly on WinterSports,Outdoors,Indoor Sports and Assorted Sports Articles therefore with this details we can perhaps roll out private sale events or special promotion for these customers in attempt to retain them and also work on these product category with more offerings etc. 
+
+- regional product category performance trend
+  <img width="963" alt="image" src="https://github.com/tthh97/regionalstoreanalysis/assets/143679857/84cca283-b043-4f42-96ed-cbb97c65f737">
