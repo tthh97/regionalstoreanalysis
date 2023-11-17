@@ -10,4 +10,4 @@ Overview of the dashboard
 
 <img width="1203" alt="image" src="https://github.com/tthh97/regionalstoreanalysis/assets/143679857/cc71acde-44c3-4f7f-94c8-b265092a83b0">
 
-
+<img width="770" alt="image" src="https://github.com/tthh97/regionalstoreanalysis/assets/143679857/5e9dac73-5c3c-4315-937f-f01215ef8967">
