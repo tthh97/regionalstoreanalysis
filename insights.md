@@ -6,10 +6,13 @@ Insights of the analysis
 Sales Analysis : 
 - Built in dashboard to navigate sales revenue trend over monthly and yearly period. 
 - Performance analysis of different product categories across each region 
-- Identification of peak sales periods and seasonal trends across each region 
+- Identification of peak sales periods and seasonal trends across each region
+- The line graph indicates considerable volatility in revenue, with a notable peak at the end of each year, which could be attributed to holiday sales.
+
 
 Customer Behavior analysis:
 - Segmentation of top 10 customers based on purchase behavior and demographics.
 - Identification of high-value customers for targeted marketing.
 <img width="500" alt="image" src="https://github.com/tthh97/regionalstoreanalysis/assets/143679857/ab7f1a28-47ca-4dbd-afe1-83d69404476e">
--From the chart observation above it can be denote that top spenders spend mostly on WinterSports,Outdoors,Indoor Sports and Assorted Sports Articles 
+
+-From the chart observation above it can be denote that top spenders spend mostly on WinterSports,Outdoors,Indoor Sports and Assorted Sports Articles therefore with this details we can perhaps roll out private sale events or special promotion for these customers in attempt to retain them and also work on these product category with more offerings etc. 
